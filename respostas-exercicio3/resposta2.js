@@ -1,3 +1,6 @@
+/* A resposta 1 não pode ser resolvida com swich case, por que necessita do operador > ou < para poder fazer a verificação do teste
+
+
 
 
 let num = prompt('Digite um número: ');

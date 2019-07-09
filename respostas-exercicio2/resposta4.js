@@ -7,3 +7,25 @@ if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u'
 } else {
     alert('A letra digitada eh uma consoante');
 }
+
+
+
+/*===============================================================  //   Resposta do Professor  //     ==========================================================================
+
+let letra = prompt('Informe uma letra');
+
+letra = letra.toLowerCase().trim();
+
+let resposta = "A letra é uma CONSOANTE";
+
+if (letra == 'a' ||
+    letra == 'e' ||
+    letra == 'i' ||
+    letra == 'o' ||
+    letra == 'u' ||)   {
+        resposta = 'a letra é uma VOGAL;
+    }
+
+alert(resposta);
+
+=============================================================================================================================================================================*/

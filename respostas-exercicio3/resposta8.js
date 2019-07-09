@@ -1,3 +1,5 @@
+/* A resposta 1 não pode ser resolvida com swich case, por que necessita do operador > ou < para poder fazer a verificação do teste
+
 let prod1 = parseFloat(prompt('Informe o preço do produto 1: '));
 let menor = prod1;
 let recomendacao = 'Produto 1'
