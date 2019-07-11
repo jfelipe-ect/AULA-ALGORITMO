@@ -4,6 +4,8 @@ let turno = prompt('Digite "M" para Matutino, "V" para Vespertino e "N" para Not
 
     .trim(); // Remove espaços desnecessários
 
+    .charAt(0); // Capta apenas o primeiro caractere de cada palavra
+
 switch (!isNaN(turno) || turno) {
     case true:
         alert('Digite um caractere valido!');
