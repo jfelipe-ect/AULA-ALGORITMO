@@ -11,3 +11,4 @@ for (var i = 1; i <=4 ; i+=1){
 let media = somatorio / (i-1);
 
 alert('Sua média é igual a: ' + media);
+
